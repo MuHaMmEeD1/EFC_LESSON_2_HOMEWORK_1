@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFC_LESSON_2_HOMEWORK_1", "EFC_LESSON_2_HOMEWORK_1\EFC_LESSON_2_HOMEWORK_1.csproj", "{D43D675E-5F8E-4801-820D-3BD9A6F37F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43D675E-5F8E-4801-820D-3BD9A6F37F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43D675E-5F8E-4801-820D-3BD9A6F37F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43D675E-5F8E-4801-820D-3BD9A6F37F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43D675E-5F8E-4801-820D-3BD9A6F37F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D23B4ED-59D3-4375-A029-ACECE14D3B1F}
+	EndGlobalSection
+EndGlobal
